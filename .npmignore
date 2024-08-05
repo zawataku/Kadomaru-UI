@@ -1,0 +1,13 @@
+node_modules
+src/index.css
+test
+.DS_Store
+package-lock.json
+dist
+.vscode
+.git
+.stylelintrc.js
+tailwind.config.js
+postcss.config.js
+.gitignore
+CHANGELOG.md

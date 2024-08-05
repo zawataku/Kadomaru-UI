@@ -1,10 +1,17 @@
 {
   "name": "kadomaru-ui",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Kadomaru UI - UI compornents for Tailwind CSS",
   "author": "zawataku",
   "license": "MIT",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zawataku/Kadomaru-UI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zawataku/Kadomaru-UI/issues"
+  },
   "scripts": {
     "build": "npx tailwindcss -i ./src/index.css -o ./dist/output.css"
   },
