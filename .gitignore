@@ -1,4 +1,5 @@
 node_modules
+src/index.css
 test
 .DS_Store
 package-lock.json
