@@ -3,7 +3,6 @@ src/index.css
 test
 .DS_Store
 package-lock.json
-dist
 .vscode
 .git
 .stylelintrc.js
